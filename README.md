@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available on my website! [kacper.boo](https://kacper.boo)
 
-- 📝 I regularly write articles on my blog [blog.kacper.boo](https://blog.kacper.boo)
-
 - 🖥️ How to reach me **palka@kacper.boo**
   
 - 🌍 Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/kacper-palka-042a88256/)
