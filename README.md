@@ -6,9 +6,8 @@
 - 📝 I regularly write articles on my blog [blog.kacper.boo](blog.kacper.boo)
 
 - 🖥️ How to reach me **palka@kacper.boo**
-
-<h3 align="left">Connect with me:</h3>
-[LinkedIn](https://www.linkedin.com/in/kacper-palka-042a88256/)
+  
+- 🌍 Connect with me on LinkedIn [LinkedIn](https://www.linkedin.com/in/kacper-palka-042a88256/)
 <p align="left">
 </p>
 
