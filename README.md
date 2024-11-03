@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A Computer Science Student, CTF Player</h3>
 
-- 👨‍💻 All of my projects are available on my website! [kacper.boo](kacper.boo)
+- 👨‍💻 All of my projects are available on my website! [kacper.boo](https://kacper.boo)
 
-- 📝 I regularly write articles on my blog [blog.kacper.boo](blog.kacper.boo)
+- 📝 I regularly write articles on my blog [blog.kacper.boo](https://blog.kacper.boo)
 
 - 🖥️ How to reach me **palka@kacper.boo**
   
